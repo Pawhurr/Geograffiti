@@ -12,6 +12,8 @@
 
 Geograffiti is a full-stack app that allows users to plot routes and "favorite" local street murals throughout neighborhoods in Charlotte.  Users also have the ability to enable and disable breweries on the map if they want to plan out an afternoon of stops and they can upload pieces they find.  If people would like information that our database uses, they can call our API that was created to get back JSON information about the art and artists.
 
+![Geograffiti](https://pawhurr.github.io/images/geograffiti.PNG)
+
 
 
 ## Installation for development
